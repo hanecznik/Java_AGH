@@ -59,7 +59,6 @@ class PlayWithMoviesTest {
                 "Quentin Tarantino", 6L,
                 "Alfred Hitchcock", 9L));
     }
-
     /**
      * The 10 directors with the most films on the list
      */
